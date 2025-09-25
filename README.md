@@ -56,12 +56,4 @@ The pre-trained weights (`cnnCat2.h5`) are included for immediate use.
 
 Contributions are welcome! Open issues or submit pull requests for improvements.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-```
-
-I can also make an **ultra-short version** under 300 words that’s GitHub-friendly and super clean if you want. Do you want me to do that?
-```
 
